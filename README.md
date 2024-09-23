@@ -44,5 +44,3 @@ Explore the provided Jupyter notebooks or Python scripts to see the implementati
 Check out the **model comparison** section to compare how different collaborative filtering techniques perform, and gain insights into the strengths and limitations of each approach.
 
 ---
-
-This refined README provides a clear and professional overview of the project, making it easy for users and contributors to understand and get started.
